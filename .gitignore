@@ -1,0 +1,13 @@
+# Rust
+/target
+**/*.rs.bk
+
+# Front
+/web/node_modules
+/web/dist
+
+# macOS
+.DS_Store
+
+# JetBrains
+.idea/
